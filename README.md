@@ -1,1 +1,2 @@
 # spotify-clone-using-HTML-CSS-
+This project is a clone of Spotify's web player interface, built using HTML and CSS. It features a responsive layout with a sidebar navigation menu, a main content area displaying recently played tracks and featured charts, and a fixed music player at the bottom of the page. The design incorporates dark backgrounds, bold typography, and iconography inspired by modern music streaming platforms. This project aims to provide users with a visually appealing and functional interface for discovering and playing music.
